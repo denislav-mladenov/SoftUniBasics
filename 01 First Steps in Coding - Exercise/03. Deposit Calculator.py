@@ -1,5 +1,0 @@
-deposit = float(input())
-duration = int(input())
-percent = float(input())
-total = deposit + duration * (deposit * (percent/100)/12)
-print(total)
